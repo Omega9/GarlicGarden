@@ -37,3 +37,7 @@ html[data-theme='light'] {
     --primary-text-s: 27%;
     --primary-text-l: 94%;
 }
+
+.cp__sidebar-help-btn {
+  display: none;
+}
