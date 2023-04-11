@@ -1,6 +1,7 @@
-@import url('https://cdn.jsdelivr.net/gh/nmartin84/logseq-theme-colors@main/base.css');
+/* @import url('https://cdn.jsdelivr.net/gh/nmartin84/logseq-theme-colors@main/base.css'); */
+@import url('https://raw.githubusercontent.com/tobealive/logseq-allday-theme/main/custom.css');
 
-.dark-theme,
+/* .dark-theme,
 html[data-theme='dark'] {
     --background-color-h: 220;
     --background-color-s: 16%;
@@ -17,9 +18,9 @@ html[data-theme='dark'] {
     --primary-text-h: 218;
     --primary-text-s: 27%;
     --primary-text-l: 94%;
-}
+} */
 
-.white-theme,
+/* .white-theme,
 html[data-theme='light'] {
     --background-color-h: 220;
     --background-color-s: 16%;
@@ -36,7 +37,7 @@ html[data-theme='light'] {
     --primary-text-h: 218;
     --primary-text-s: 27%;
     --primary-text-l: 94%;
-}
+} */
 
 .cp__sidebar-help-btn {
   display: none;
